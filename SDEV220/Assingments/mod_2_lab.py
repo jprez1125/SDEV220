@@ -17,4 +17,3 @@ while True:
         print(f"{first_name} {last_name} has made Honor Roll.")
     else:
         print(f"{first_name} {last_name} has not made the Dean's List or the Honor Roll.")
-

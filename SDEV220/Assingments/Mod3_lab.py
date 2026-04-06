@@ -2,8 +2,6 @@
 #app that will accept user input for a car,The app will then ask the user for the year, make, model, doors, and type of roof
 #The app will then output the data
 
-
-
 #superclass called Vehicle
 class Vehicle:
     def __init__(self, vehicle_type):
